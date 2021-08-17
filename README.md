@@ -2,6 +2,6 @@
 To Predict the average rating a board game will receive based on certain aspects such as number of participants in game, difficulty, playing time etc
 
 Machine learning algorithms used:
-Linear Regression
-Decision Tree
+Linear Regression,
+Decision Tree,
 Random Forest
